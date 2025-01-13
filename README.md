@@ -8,9 +8,6 @@ Welcome to the **Machine Learning Projects Hub**, a repository that showcases di
 1. [Overview](#overview)
 2. [Projects](#projects)
 3. [Getting Started](#getting-started)
-4. [Installation](#installation)
-5. [Contributing](#contributing)
-6. [License](#license)
 
 ---
 
