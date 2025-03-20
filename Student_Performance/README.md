@@ -4,7 +4,7 @@
 This project is a **Student Performance Prediction** system that utilizes a **Linear Regression** model to predict an individual's performance based on a CSV dataset containing student records. The project features a user-friendly **Graphical User Interface (GUI)** built with **Streamlit** and is deployed on **Streamlit servers** for easy access and usage.
 
 ## Features
-- **Upload Student Data CSV**: Users can upload their dataset for analysis.
+- **Upload Student Data**: Users can upload their data for analysis.
 - **Data Preprocessing**: The application processes the CSV file and prepares it for the ML model.
 - **Linear Regression Model**: Predicts student performance based on input features.
 - **Visualizations**: Displays various graphical representations of data insights.
@@ -40,10 +40,9 @@ To run the project locally, follow these steps:
 
 ## Usage
 1. Open the deployed **Streamlit App** using the provided link.
-2. Upload a CSV file containing student performance data.
-3. The application will process the data and apply the **Linear Regression Model**.
-4. View the **predicted performance** and **visualizations**.
-5. Analyze results and insights derived from the dataset.
+2. The application will process the data and apply the **Linear Regression Model**.
+3. View the **predicted performance** and **visualizations**.
+4. Analyze results and insights derived from the dataset.
 
 ## Dataset Format
 The CSV file should contain the following columns (example):
