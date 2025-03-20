@@ -25,7 +25,7 @@ This repository is a one-stop destination for exploring real-world machine learn
 ### 1. **Student Performance Index**
 - **Description**: Made a ML model for predicting student performance with accuracy of more than 90%.
 - **Technologies Used**: Linear Regression, Streamlit, Pickle
-- **Folder**: `projects/tera-bot/`
+- **Folder**: `projects/Student_performance/`
 
 ---
 
