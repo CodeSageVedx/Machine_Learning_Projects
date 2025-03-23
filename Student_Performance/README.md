@@ -3,6 +3,9 @@
 ## Overview
 This project is a **Student Performance Prediction** system that utilizes a **Linear Regression** model to predict an individual's performance based on a CSV dataset containing student records. The project features a user-friendly **Graphical User Interface (GUI)** built with **Streamlit** and is deployed on **Streamlit servers** for easy access and usage.
 
+##Deployed Link :-
+https://machinelearningprojects-1.streamlit.app/
+
 ## Features
 - **Upload Student Data**: Users can upload their data for analysis.
 - **Data Preprocessing**: The application processes the CSV file and prepares it for the ML model.
